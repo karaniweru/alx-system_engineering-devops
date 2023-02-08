@@ -1,0 +1,1 @@
+The scripts are used to print working directory, list files, go to user's home directory, show hidden files, list files digits only, creates directories, moves files, deletes files, deletes directories, changes directory to previous one, lists all files, lists file types, creates a symbolic link, and copies html files respectively.
